@@ -1,5 +1,6 @@
 #!/bin/bash
-#Program to display the nested if statements
+#Program to display the multiple if statements
+#else-if statement is used for multiple conditions.
 
 #count=10
 
