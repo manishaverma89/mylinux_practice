@@ -1,6 +1,7 @@
 #!/bin/bash
 #script to check logged in user is valid or invalid
-
+#check whether username password matches or not
+#
 
 echo "Enter the username"
 read username
