@@ -1,32 +1,37 @@
 #!/bin/bash
-#Script using the numerical operations using IF Statments
+
+#if_operators.sh
+#A Script on using Numerical Operators in If Statement
+
+#static value declaration
+#a=10
+#b=20
+
+#dynamic value declaration
+
+echo "Enter the value of a:"
+read a
+
+echo "Enter the value of b:"
+read b
 
 
-x=10
-y=30
-
-
-if [ $x -eq $y ]; then
-        echo "$x is equal to $y"
+if [ $a -eq $b ]; then
+        echo "$a is equal to $b"
 fi
-
-if [ $x -ne $y ] ; then
-        echo "$x is not equal to $y"
+if [ $a -ne $b ]; then
+        echo "$a is not equal to $b"
 fi
-
-if [ $x -gt $y ]; then
-        echo "$x is greater than $y"
+if [ $a -gt $b ]; then
+        echo "$a is greater than $b"
 fi
-
-if [ $x -ge $y ]; then
-        echo "$x is greater than or equal to $y"
+if [ $a -ge $b ]; then
+        echo "$a is greater than or equal to $b"
 fi
-
-if [ $x -lt $y ]; then
-        echo "$x is less than $y"
+if [ $a -lt $b ]; then
+        echo "$a is less than $b "
 fi
-
-if [ $x -le $y ]; then
-        echo "$x is less than or equal to $y"
+if [ $a -le $b ]; then
+        echo "$a is less than or equal to $b"
 fi
 
