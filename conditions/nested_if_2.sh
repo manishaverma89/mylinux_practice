@@ -2,7 +2,7 @@
 
 #Another Example of nested_if statement
 
-echo "Please enter the value for i:"
+echo "Please Enter Any Number:"
 read num
 if [[ $num -ge 100 ]]
 then
