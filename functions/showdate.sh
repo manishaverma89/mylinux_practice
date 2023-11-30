@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+function showdate()
+{
+echo "==================="
+echo "  "
+ date +%F
+echo "  "
+echo "==================="
+}
+
+showdate
+echo "first time calling function"
+sleep 5
+
+showdate
+echo "second time calling function"
+
+
+
+
