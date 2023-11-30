@@ -10,4 +10,3 @@ Sr empName       Designation    Location
 7. Amit		 SME		UP
 8. Vivek	 Developer	Haryana
 9. Advitha	 Manager	Panchkula
-10.Manisha       DevOps         MP
