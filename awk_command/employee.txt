@@ -1,0 +1,13 @@
+employee.txt
+Sr empName       Designation    Location
+
+1. Ashfaq	 Manager   	Haryana
+2. Mike		 Developer 	Chandigarh
+3. Kumar    	 HR       	Delhi
+4. Tom      	 SME       	landon
+5. Karthik  	 DevOps         Delhi
+6. Deepak   	 Manager	MP
+7. Amit		 SME		UP
+8. Vivek	 Developer	Haryana
+9. Advitha	 Manager	Panchkula
+10.Manisha       DevOps         MP
