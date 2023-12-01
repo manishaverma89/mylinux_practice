@@ -5,12 +5,8 @@
 
 echo "Hi what is your name?"
 read name
-
 read -p "What is your program name?  " program_name
-
 read -p "what is your enrollment number?  " Enrol_number
- 
 echo " "
-
 echo -e "Hi My Name is $name \nMy Program name is '$program_name' and\nMy Enrollment number is '$Enrol_number'  "
 
