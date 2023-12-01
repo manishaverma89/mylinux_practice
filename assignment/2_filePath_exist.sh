@@ -1,5 +1,5 @@
 #!/bin/bash
-#Shell script to check to see if the file “file_path” exists
+#Shell script to check to see if the file “file_path” exists and check the files's permissions whether it's writable or not
 
 
 
